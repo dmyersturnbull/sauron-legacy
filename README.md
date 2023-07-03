@@ -10,7 +10,7 @@ More detailed documentation can be found for the respective projects.
 
 **TIP:** Open the diagram in another window (side-by-side). It contains embedded links, which cannot be rendered here.
 
-<img src="https://raw.githubusercontent.com/dmyersturnbull/sauron-publication/main/DOCUMENTATION/projects.svg" width="45%" height="45%" />
+<img src="https://raw.githubusercontent.com/dmyersturnbull/sauron-legacy/main/flow.svg" width="45%" height="45%" />
 
 ## Flow of data
 
