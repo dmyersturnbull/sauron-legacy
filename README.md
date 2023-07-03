@@ -14,7 +14,7 @@ More detailed documentation can be found for the respective projects.
 
 ## Flow of data
 
-<img src="https://raw.githubusercontent.com/dmyersturnbull/sauron-publication/main/DOCUMENTATION/flow.svg" width="45%" height="45%" />
+<img src="https://raw.githubusercontent.com/dmyersturnbull/sauron-legacy/main/projects.svg" width="45%" height="45%" />
 
 ## Component glossary
 
